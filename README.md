@@ -50,4 +50,4 @@ This repository includes two business analytics projects combining multi-criteri
 ## 👤 Author
 **Surapot Nonpassopon**  
 MSc Data Science and Analytics, University of Leeds  
-[GitHub Portfolio](https://github.com/surapotnon)
+[GitHub Portfolio](https://github.com/surapotsrp)
